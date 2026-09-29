@@ -2,7 +2,7 @@
 ## Cátedra: Teoría de Sistemas Operativos (TSO) — Ciclo Lectivo 2026
 ### Universidad Nacional de Jujuy (UNJu) — Facultad de Ingeniería
 
-![GitHub Classroom Autograding - TP4](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP4/actions/workflows/classroom.yml/badge.svg)
+![GitHub Classroom Autograding - TP 4](https://github.com/betyampuero/TSO-TP4/actions/workflows/classroom.yml/badge.svg)
 
 ---
 
